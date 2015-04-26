@@ -1,0 +1,2 @@
+# fsdxmind
+full stack developer
